@@ -1,0 +1,40 @@
+{
+  "samplePolicies": [
+    {
+      "fileName": "sample1.csv",
+      "columnRules": [
+        {
+          "columnName": "sample1.1",
+          "type": "Numeric",
+          "isRequired": true
+        }
+      ],
+      "customRules": [
+        {
+          "columnName": "sample1.1",
+          "ruleType": "GreaterThan",
+          "parameter": "0",
+          "errorMessage": "sample1.1은 0보다 커야 합니다."
+        }
+      ]
+    },
+    {
+      "fileName": "sample2.csv",
+      "columnRules": [
+        {
+          "columnName": "sample2.1",
+          "type": "String",
+          "isRequired": true
+        }
+      ],
+      "customRules": [
+        {
+          "columnName": "sample2.1",
+          "ruleType": "MinLength",
+          "parameter": "10",
+          "errorMessage": "sample2.1은 최소 10자리 이상이어야 합니다."
+        }
+      ]
+    }
+  ]
+}

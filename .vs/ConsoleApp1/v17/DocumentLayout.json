@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makaj\\Downloads\\CsvValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\makaj\\downloads\\csvvalidator\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\makaj\\downloads\\csvvalidator\\consoleapp1\\samplepolicies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\samplepolicies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\makaj\\downloads\\csvvalidator\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13625716-EACE-4766-9CE5-DCCDFC283985}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 45,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAuwJ8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:38:38.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T10:15:47.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "samplePolicies.json",
+              "DocumentMoniker": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\samplePolicies.json",
+              "RelativeDocumentMoniker": "ConsoleApp1\\samplePolicies.json",
+              "ToolTip": "C:\\Users\\makaj\\Downloads\\CsvValidator\\ConsoleApp1\\samplePolicies.json",
+              "RelativeToolTip": "ConsoleApp1\\samplePolicies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T10:08:42.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
